@@ -187,8 +187,6 @@ static void print_info(char *fmt, ...){
 	va_end(va);
 }
 
-static void print_warning(char *fmt, ...);
-
 static bool has_png_header(FILE *image){
 	uint8_t png[] = {137, 80, 78, 71, 13, 10, 26, 10};
 	uint8_t bytes[8];
