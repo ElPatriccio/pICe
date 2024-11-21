@@ -58,7 +58,7 @@ After compilation, the binary will be located in the build directory. You can ru
   [INFO] 0 errors
 ```
 ## 💡 Features
-As of now, pICe is able to verify the basic file structure. pICe checks if every standard chunk is at the right place, in the correct order and appears only as often as the standard allows.
+As of now, pICe is able to verify the basic file structure. pICe checks if every standard chunk is at the right place, in the correct order and appears only as often as the standard allows. Use the --help flag to learn more.
 
 ## ✏️ Contributing
 Contributions are welcome! If you'd like to contribute, feel free to fork this repository and create a pull request.
